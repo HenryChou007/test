@@ -1,2 +1,3 @@
 # test
 a test project
+just test .....
